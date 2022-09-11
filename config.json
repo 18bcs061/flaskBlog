@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local-server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_uri": "https://facebook.com/ethics",
+    "tw_uri": "https://twitter.com/ethics",
+    "gh_uri": "https://github.com/ethics",
+    "blog_name": "Ethical Points",
+    "tag_line": "A blog liked by ethical users",
+    "gmail-user": "abhishek8130884283@gmail.com",
+    "gmail-password": "yoccwqyaqppaafxi",
+     "about_text": "Hi my name is abhishek and I create ethical points and I am a good boy",
+      "no_of_posts": 2,
+        "login_image":"login.svg",
+    "admin_user":"abhishek",
+    "admin_password": "abhi500@#",
+   "upload_location": "C:\\Users\\Admin\\Desktop\\react course\\pythonProject\\FlaskSeries\\static\\assets\\img"
+  }
+}
